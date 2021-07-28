@@ -4,9 +4,8 @@ Documento en el que se presenta un **análisis de datos** y un **modelo matemát
 
 ## Acerca del documento 📄
 
-El documento esta escrito en inglés y sigue una serie de pasos definidos por mí. Inicia con una introducción y una breve explicación del análisis. Continua con el análisis de datos hecho en Python hasta llegar al modelo matemático utilizado. 
-
-En mi caso use una regresión múltiple dado el análisis.
+El documento esta escrito en inglés y este repositorio tiene como propósitos fungir como base para todo aquel que desee realizar algún análisis medianamiente formal. \
+Respecto al documento, inicia con una introducción y una breve explicación del análisis. Continua con el análisis de datos hecho en Python hasta llegar al modelo matemático utilizado. En mi caso use una regresión lineal múltiple dado el análisis.
 
 Documento: 
 
