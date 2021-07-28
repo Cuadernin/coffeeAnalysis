@@ -8,9 +8,9 @@ El documento esta escrito en inglés y sigue una serie de pasos definidos por m�
 
 En mi caso use una regresión múltiple dado el análisis.
 
-Documento:
+Documento: 
 
-Dashboard en Power Bi del dataset: 
+Dashboard en Power Bi del dataset: [Dashboard](https://github.com/Cuadernin/coffeeAnalysis/tree/main/Reporte)
 
 
 
