@@ -5,13 +5,11 @@ Documento en el que se presenta un **análisis de datos** y un **modelo matemát
 ## Acerca del documento 📄
 
 El documento esta escrito en inglés y este repositorio tiene como propósito fungir como base para todo aquel que desee realizar algún análisis de datos medianamente formal. \
-Respecto al documento, inicia con una introducción y una breve explicación del análisis. Continua con el análisis de datos hecho en Python hasta llegar al modelo matemático utilizado. En mi caso use una regresión lineal múltiple dado el análisis.
+Respecto al documento, inicia con una introducción y una breve explicación del análisis. Continua con el análisis de datos hecho en Python hasta llegar al modelo matemático utilizado. En este caso, use un modelo de regresión lineal múltiple dado el dataset.
 
 Documento:  [Archivo](https://github.com/Cuadernin/coffeeAnalysis/blob/main/Analisis_cafe.pdf)
 
 Dashboard en Power Bi del dataset: [Dashboard](https://github.com/Cuadernin/coffeeAnalysis/tree/main/Reporte)
-
-Puedes encontrar el Jupyter notebook en: 
 
 ## Acerca de la certificación 📜
 
